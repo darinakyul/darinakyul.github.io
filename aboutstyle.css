@@ -1,0 +1,72 @@
+.navbar {
+	background-color: #f0eceb !important;
+
+}
+
+.navbar-brand{
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.navbar-toggler {
+	background-color: #eeefec !important;
+}
+ .nav-link {
+ 	font-size: 14pt; 
+ 	position: relative;
+ 	top: 16%;
+   
+ }
+
+.nav-link:hover {
+ 	font-size: 15pt;
+ }
+
+
+ #about {
+ color: #3d829c;
+ font-weight: bold;
+ padding-right: 15pt;
+ }
+
+ #projects {
+ color: #d3c46b;
+ font-weight: bolder;
+ padding-right: 15pt;
+ }
+
+ #services {
+ color: #b7c194;
+ font-weight: bold;
+ padding-right: 15pt;
+ }
+
+  #events {
+ color: #c9b2b7;
+ font-weight: bold;
+ padding-right: 15pt;
+ }
+
+  #contact {
+ color: #4cb4bc;
+ font-weight: bold;
+ padding-right: 200pt;
+ }
+
+.social{
+	position: relative;  
+	top: 0px;
+}
+
+#fb, #twi {
+margin-right: 9pt !important;
+}
+
+.insta:hover{
+	transform: scale(1.25) !important;
+}
+
+.lin{
+padding-left: 1pt !important;
+margin: 0;
+}
